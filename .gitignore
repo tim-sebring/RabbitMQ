@@ -1,3 +1,4 @@
 *.pyc
 .netrc
 .netrc.asc
+.netrc.gpg
