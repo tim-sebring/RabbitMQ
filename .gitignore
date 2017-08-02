@@ -1,1 +1,3 @@
 *.pyc
+.netrc
+.netrc.asc
